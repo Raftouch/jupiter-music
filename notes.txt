@@ -1,0 +1,2 @@
+Comment / Uncomment : Ctrl + /
+Read details : Shift + Tab
